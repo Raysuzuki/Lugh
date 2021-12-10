@@ -1,2 +1,2 @@
-# Lugh
+# Lugh Bot
 🗿au ah
