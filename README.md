@@ -38,11 +38,12 @@
 ```
 ada di file bagian "cara install.js" 
 
-### GRUP〽️
-<p align="center">
-  <a href="https://chat.whatsapp.com/FU9uGSY7ODW9spPWCJFmEP"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br> 
 
 ```
+### GRUP〽️
+<p align="center">
+  <a href="https://chat.whatsapp.com/FU9uGSY7ODW9spPWCJFmEP"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+
 ### Thank to🌹 
 
 ```
