@@ -48,7 +48,7 @@
 > cd
 > cd Lugh
 > npm i @adiwajshing/baileys/latest 
-> npm update (ini klo emot npm start nya) 
+> npm update (ini klo emor npm start nya) 
 > npm start
 
 
