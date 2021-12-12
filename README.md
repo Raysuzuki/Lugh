@@ -62,9 +62,7 @@
   <a href="https://chat.whatsapp.com/FkjGJPHtDtFKhKXyyaeyYE"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
 
 ### SC Media ⬇️
-
-https://www.mediafire.com/file/xwwsvbhq8ev2mnj/Lugh.7z/file
-
+ blum ada :v
 Pw : mau main bot kah?
 
 ### Thank to🌹 
