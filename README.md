@@ -36,7 +36,20 @@
 ### HOW INSTALL🗿 
 
 ```
-ada di file bagian "cara install.js" 
+> apt update && apt upgrade
+> pkg install nodejs
+> pkg install mc
+> pkg install ffmpeg
+> pkg install imagemagick
+> pkg install liwebp
+> termux-setup-storage (izinkan) 
+> cd /sdcard
+> cp -r Lugh $HOME
+> cd
+> cd Lugh
+> npm i @adiwajshing/baileys/latest 
+> npm update (ini klo emot npm start nya) 
+> npm start
 
 
 ```
