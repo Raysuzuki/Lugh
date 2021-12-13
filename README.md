@@ -38,7 +38,7 @@
 ```
 > apt update && apt upgrade
 > pkg install nodejs
-> pkg install mc
+> pkg install git
 > pkg install ffmpeg
 > pkg install imagemagick
 > pkg install liwebp
