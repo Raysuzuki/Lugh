@@ -44,10 +44,10 @@
 > pkg install liwebp
 > termux-setup-storage (izinkan) 
 > cd /sdcard
-> cp -r Lugh $HOME
+> cp -r {nama file} $HOME
 > cd
-> cd Lugh
-> npm i @adiwajshing/baileys/latest 
+> cd {nama file}
+> npm i 
 > npm update (ini klo emor npm start nya) 
 > npm start
 
