@@ -1,5 +1,5 @@
 # Lugh Bot
-• halo ngab mau SC kah? No pw 🗿. Masuk grup w klo gk masuk gw akan SC nya pw in 🥲
+• halo ngab mau SC kah? No pw 🗿. Masuk grup w klo gk masuk gw akan SC nya pw in ><
 
 <h1 align="center">Halo ngab 🗿 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
@@ -45,6 +45,10 @@
 > npm start
 
 ```
+### WA BOT 🤖
+<p align="center">
+  <a href="https://wa.me/62887433094409?text=!menu"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+
 ### GRUP〽️
 <p align="center">
   <a href="https://chat.whatsapp.com/FU9uGSY7ODW9spPWCJFmEP"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
