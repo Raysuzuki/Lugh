@@ -1,5 +1,5 @@
 # Lugh Bot
-• halo ngab mau SC kah? Ini pw 🗿. Gk usah msuk tes bot itu hnya tes doang. Ini ada emor jdi gpp aja🗿🙏
+• halo ngab mau SC kah? No pw 🗿. Masuk grup w klo gk masuk gw akan SC nya pw in 🥲
 
 <h1 align="center">Halo ngab 🗿 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
@@ -36,39 +36,26 @@
 ### HOW INSTALL🗿 
 
 ```
-> apt update && apt upgrade
-> pkg install nodejs
-> pkg install git
-> pkg install ffmpeg
-> pkg install imagemagick
-> pkg install liwebp
-> termux-setup-storage (izinkan) 
+> termux-setup-storage
 > cd /sdcard
-> cp -r {nama file} $HOME
+> cp -r LughV2 /$HOME
 > cd
-> cd {nama file}
-> npm i 
-> npm update (ini klo emor npm start nya) 
+> cd LughV2 
+> bash install.sh
 > npm start
-
 
 ```
 ### GRUP〽️
 <p align="center">
   <a href="https://chat.whatsapp.com/FU9uGSY7ODW9spPWCJFmEP"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
 
-### TES BOT👩‍💻
-<p align="center">
-  <a href="https://chat.whatsapp.com/FkjGJPHtDtFKhKXyyaeyYE"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
-
 ### SC Media ⬇️
- blum ada :v
-Pw : mau main bot kah?
+https://www.mediafire.com/file/35hug1rebu8qw4v/LughV2.zip/file
 
 ### Thank to🌹 
 
 ```
-Dittaz (sc ori) 
+Zeeone ofc (sc ori) 
 Foxteam 
 Ray Ganz
 Sasha Chan 
