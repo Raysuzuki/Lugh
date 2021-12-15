@@ -54,6 +54,7 @@
 > cd [ Filename] 
 > bash install.sh
 > npm update
+> rm -rf session.json
 > npm start
 
 ```
